@@ -11,6 +11,5 @@ function App() {
     </div>
     </>
   )
+    main
 }
-
-export default App
